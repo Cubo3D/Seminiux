@@ -2,6 +2,10 @@
 
 DESCONTINUADO, MAS COM CHANCE DE VOLTAR EM UM OUTRO REPOSITÓRIO E TOTALMENTE DIFERENTE DESSE
 
+NOVO REPOSITÓRIO: https://github.com/Cubo3D/GlyshTerm
+
+JÁ JÁ ELE VAI EXCLUÍDO
+
 Certifique-se de estar na pasta Seminiux Environment antes de executar ele!!!
 
 Aliás crie uma pasta com algum nome de usuário dentro da pasta "Usrs" para você fazer as suas coisas
